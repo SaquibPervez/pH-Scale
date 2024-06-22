@@ -1,0 +1,76 @@
+body{
+    background-color: lightgray;
+}
+*{
+    margin: 0px;
+    padding: 2px;
+}
+.container{
+    margin: 10px;
+}
+
+.Heading{
+    background-color: #ffffff;
+    margin: 10px;
+    font-family:cursive;
+}
+.PH-14{
+    background-color: #2783c5;
+    color: #ffffff;
+}
+.PH-13{
+    background-color: #2592d0;
+    color: #ffffff;
+}
+.PH-12{
+    background-color: #1d9dd8;
+    color: #ffffff;
+}
+.PH-11{
+    background-color: #33a6de;
+    color: #ffffff;
+}
+.PH-10{
+    background-color: #57b5e6;
+    color: #ffffff;
+}
+.PH-9{
+    background-color: #72c1ec;
+    color: #ffffff;
+}
+.PH-8{
+    background-color: #8ecaee;
+    color: #ffffff;
+}
+.PH-7{
+    background-color: #1bb584;
+    color: #ffffff;
+}
+.PH-6{
+    background-color: #f4aecc;
+    color: #ffffff;
+}
+.PH-5{
+    background-color: #f49dc2;
+    color: #ffffff;
+}
+.PH-4{
+    background-color: #f38cb6;
+    color: #ffffff;
+}
+.PH-3{
+    background-color: #f179a6;
+    color: #ffffff;
+}
+.PH-2{
+    background-color: #f16996;
+    color: #ffffff;
+}
+.PH-1{
+    background-color: #f0568a;
+    color: #ffffff;
+}
+.PH-0{
+    background-color: #ed397f;
+    color: #ffffff;
+}
